@@ -39,6 +39,8 @@ const stageIdsMap = {
   UaR: 15, // Um'ami Ruins
   HPT: 16, // Humpback Pump Track
   B_D: 17, // Barnacle & Dime
+  CrC: 18, // Crableg Capital
+  SCC: 19, // Shipshape Cargo Co.
 };
 function resolveStageId(fileName) {
   for (const stageCode of Object.keys(stageIdsMap)) {
