@@ -41,6 +41,8 @@ const stageIdsMap = {
   B_D: 17, // Barnacle & Dime
   CrC: 18, // Crableg Capital
   SCC: 19, // Shipshape Cargo Co.
+  BfD: 20, // Bluefin Depot
+  RRe: 21, // Robo ROM-en
 };
 function resolveStageId(fileName) {
   for (const stageCode of Object.keys(stageIdsMap)) {
