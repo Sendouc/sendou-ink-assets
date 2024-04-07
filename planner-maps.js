@@ -43,6 +43,7 @@ const stageIdsMap = {
   SCC: 19, // Shipshape Cargo Co.
   BfD: 20, // Bluefin Depot
   RRe: 21, // Robo ROM-en
+  MaP: 22, // Marlin Airport
 };
 function resolveStageId(fileName) {
   for (const stageCode of Object.keys(stageIdsMap)) {
