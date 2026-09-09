@@ -423,6 +423,10 @@
 		"displayName": "Excalibur's Oath Grandmaster Bracket",
 		"authorDiscordId": "338806780446638082"
 	},
+	"fcourse": {
+		"displayName": "Full Course",
+		"authorDiscordId": "752582395076673577"
+	},
 	"ferris_wheel": {
 		"displayName": "Wheel of Names",
 		"authorDiscordId": "336683473714544641"
